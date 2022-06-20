@@ -1,0 +1,23 @@
+{
+    "name": "CardsHand.Game",
+    "rootNamespace": "CardsHand",
+    "references": [
+        "GUID:5e46c8a69e5960b4f8ebf003beedaa6c",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:029c1c1b674aaae47a6841a0b89ad80e",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:dc47925d1a5fa2946bdd37746b2b5d48",
+        "GUID:f1dbec1533fefdf49b1639530e90bc78"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "DOTween.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

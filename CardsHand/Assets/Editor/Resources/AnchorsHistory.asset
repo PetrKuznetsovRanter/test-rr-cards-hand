@@ -97,3 +97,52 @@ MonoBehaviour:
       defaultPivot: {x: 0, y: 0}
       defaultPosition: {x: 0, y: 0}
       defaultSize: {x: 32, y: 32}
+  - Key: Bootstrap\Canvas\InflunceOnCardButton\Title
+    Value:
+      defaultAnchorMin: {x: 0.5, y: 0.5}
+      defaultAnchorMax: {x: 0.5, y: 0.5}
+      defaultPivot: {x: 0.5, y: 0.5}
+      defaultPosition: {x: 0, y: 0}
+      defaultSize: {x: 142, y: 20}
+  - Key: Bootstrap\Canvas\InflunceOnCardButton
+    Value:
+      defaultAnchorMin: {x: 0, y: 1}
+      defaultAnchorMax: {x: 0, y: 1}
+      defaultPivot: {x: 0, y: 1}
+      defaultPosition: {x: 31, y: -26}
+      defaultSize: {x: 160, y: 30}
+  - Key: Card\Prefab Mode in Context\Card\TitleHolder\Title
+    Value:
+      defaultAnchorMin: {x: 0.5, y: 1}
+      defaultAnchorMax: {x: 0.5, y: 1}
+      defaultPivot: {x: 0.5, y: 1}
+      defaultPosition: {x: 0, y: -11.4721985}
+      defaultSize: {x: 141.26578, y: 33.237602}
+  - Key: Card\Prefab Mode in Context\Card\TitleHolder
+    Value:
+      defaultAnchorMin: {x: 0.5, y: 0.5}
+      defaultAnchorMax: {x: 0.5, y: 0.5}
+      defaultPivot: {x: 0.5, y: 0.5}
+      defaultPosition: {x: 0.000003159, y: -22.5}
+      defaultSize: {x: 196, y: 68}
+  - Key: Card\Prefab Mode in Context\Card\Shining
+    Value:
+      defaultAnchorMin: {x: 0.5, y: 0.5}
+      defaultAnchorMax: {x: 0.5, y: 0.5}
+      defaultPivot: {x: 0.5, y: 0.5}
+      defaultPosition: {x: 0, y: 0}
+      defaultSize: {x: 236, y: 296}
+  - Key: Bootstrap\Canvas\HandContainer
+    Value:
+      defaultAnchorMin: {x: 0.5, y: 0}
+      defaultAnchorMax: {x: 0.5, y: 0}
+      defaultPivot: {x: 0.5, y: 0}
+      defaultPosition: {x: 0, y: -151}
+      defaultSize: {x: 1110.44, y: 512}
+  - Key: Bootstrap\Canvas\Table
+    Value:
+      defaultAnchorMin: {x: 0.5, y: 0.5}
+      defaultAnchorMax: {x: 0.5, y: 0.5}
+      defaultPivot: {x: 0.5, y: 0.5}
+      defaultPosition: {x: 0, y: 102}
+      defaultSize: {x: 806.4349, y: 354.5243}
